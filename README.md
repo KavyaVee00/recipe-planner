@@ -89,15 +89,22 @@ A full-stack web application designed to help users store, organize, and plan th
 ### Health Check
 - `GET /api/health` - API status and environment information
 
-## 🎯 Iteration 1 Requirements Fulfilled
+## 🎯 Iteration Requirements Fulfilled
 
-### Technical Requirements ✅
+### Iteration 1 Requirements ✅
 - **✅ CRUD Operations**: Full Create, Read, Update, Delete functionality for recipes
 - **✅ 3+ UI Routes**: 6 distinct routes implemented with React Router
 - **✅ Bootstrap Components**: Navbar, Cards, Forms, Modals, Alerts, Buttons, Grid system
 - **✅ 3rd Party Library**: React DnD for intuitive drag-and-drop meal planning
 - **✅ Database Integration**: MongoDB with Mongoose ODM for data persistence
 - **✅ Unique Design**: Custom layout distinct from demo applications
+
+### Iteration 2 Requirements ✅
+- **✅ Core API Development**: Fully functional GET and POST endpoints for all core functionality
+- **✅ MongoDB Integration**: Complete database queries and mutations with Mongoose ODM
+- **✅ Stable Deployment**: Production-ready Google Cloud deployment with zero downtime
+- **✅ Enhanced Error Handling**: Comprehensive error management and user feedback systems
+- **✅ Performance Optimization**: Improved API response times and application stability
 
 ### Functional Features ✅
 - **✅ Recipe CRUD**: Add, view, edit, and delete recipes with form validation
@@ -109,8 +116,25 @@ A full-stack web application designed to help users store, organize, and plan th
 
 ## 👥 Team Member Contributions
 
-### Kavya Veeramony
-- Did everything
+### Kavya Veeramony (Solo Developer)
+
+#### Iteration 1 Contributions:
+- **Backend Development**: Designed and implemented Express.js API with full CRUD operations
+- **Database Design**: Created MongoDB schemas for recipes and meal plans with Mongoose ODM
+- **Frontend Development**: Built all React components and routing structure
+- **UI/UX Design**: Implemented Bootstrap components and responsive design
+- **3rd Party Integration**: Successfully integrated React DnD for drag-and-drop functionality
+- **Deployment**: Set up Google Cloud App Engine deployment with production configurations
+- **GitHub Management**: Repository setup, version control, and release tagging
+
+#### Iteration 2 Contributions:
+- **API Enhancement**: Optimized all GET and POST endpoints for improved performance and reliability
+- **Database Optimization**: Enhanced MongoDB queries and connection stability for production environment
+- **Error Management**: Implemented comprehensive error handling across all API endpoints and frontend components
+- **Production Debugging**: Resolved deployment issues including port configuration and static file serving
+- **Code Quality**: Removed deprecated MongoDB options and updated to current best practices
+- **Performance Tuning**: Optimized application load times and database response efficiency
+- **User Experience**: Refined UI interactions and improved loading states for better user feedback
 
 ## 📷 Screenshots 
 
@@ -128,7 +152,7 @@ A full-stack web application designed to help users store, organize, and plan th
 
 ## 🔄 Current Progress
 
-### Completed Features
+### Iteration 1 Completed Features
 - ✅ Full backend API with MongoDB integration
 - ✅ Complete frontend with React Router
 - ✅ Recipe CRUD operations with validation
@@ -139,6 +163,22 @@ A full-stack web application designed to help users store, organize, and plan th
 - ✅ Google Cloud deployment
 - ✅ Error handling and loading states
 
+### Iteration 2 Enhancements
+- ✅ **API Stability**: All GET/POST endpoints fully tested and optimized for production use
+- ✅ **Database Performance**: Enhanced MongoDB connection stability and query optimization
+- ✅ **Error Handling**: Comprehensive error management with user-friendly feedback messages
+- ✅ **Production Deployment**: Resolved all deployment issues for stable Google Cloud hosting
+- ✅ **Code Quality**: Updated deprecated code and improved overall application architecture
+- ✅ **User Experience**: Refined interface interactions and improved application responsiveness
+
+### Next Iteration Goals
+- User authentication and profiles
+- Recipe image upload functionality  
+- Email/print shopping lists
+- Nutritional information tracking
+- Mobile app development
+- Recipe sharing and social features
+
 ## 🐛 Known Issues
 - None currently identified
 
@@ -146,5 +186,13 @@ A full-stack web application designed to help users store, organize, and plan th
 
 - **GitHub Repository**: [https://github.com/KavyaVee00/recipe-planner](https://github.com/KavyaVee00/recipe-planner)
 - **Deployed Application**: [https://movie-time-frontend-kavya.uw.r.appspot.com](https://movie-time-frontend-kavya.uw.r.appspot.com)
-- **Release Tag**: [iter1](https://github.com/KavyaVee00/recipe-planner/releases/tag/iter1)
+- **Iteration 1 Release**: [iter1](https://github.com/KavyaVee00/recipe-planner/releases/tag/iter1)
+- **Iteration 2 Release**: [iter2](https://github.com/KavyaVee00/recipe-planner/releases/tag/iter2)
 
+## 📝 License
+
+This project is developed as part of a university coursework assignment.
+
+---
+
+**Recipe & Meal Planner** - Simplifying meal planning and recipe management for home cooks everywhere! 🍳✨
