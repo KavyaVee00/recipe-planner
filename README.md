@@ -139,14 +139,6 @@ A full-stack web application designed to help users store, organize, and plan th
 - ✅ Google Cloud deployment
 - ✅ Error handling and loading states
 
-### Next Iteration Goals
-- User authentication and profiles
-- Recipe image upload functionality  
-- Email/print shopping lists
-- Nutritional information tracking
-- Mobile app development
-- Recipe sharing and social features
-
 ## 🐛 Known Issues
 - None currently identified
 
