@@ -184,7 +184,7 @@ A full-stack web application designed to help users store, organize, and plan th
 
 ## 🔗 Links
 
-- **GitHub Repository**: [https://github.com/KavyaVee00/recipe-planner](https://github.com/KavyaVee00/recipe-planner)
+- **GitHub Repository**: [https://github.com/KavyaVee00/recipe-planner]([https://github.com/KavyaVee00/recipe-planner](https://github.com/KavyaVee00/recipe-planner/tree/master))
 - **Deployed Application**: [https://movie-time-frontend-kavya.uw.r.appspot.com](https://movie-time-frontend-kavya.uw.r.appspot.com)
 - **Iteration 1 Release**: [iter1](https://github.com/KavyaVee00/recipe-planner/releases/tag/iter1)
 - **Iteration 2 Release**: [iter2](https://github.com/KavyaVee00/recipe-planner/releases/tag/iter2)
