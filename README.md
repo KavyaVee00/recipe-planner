@@ -14,6 +14,7 @@ A full-stack web application designed to help users store, organize, and plan th
 ## 🚀 Live Demo
 
 **Deployed Application**: [https://movie-time-frontend-kavya.uw.r.appspot.com](https://movie-time-frontend-kavya.uw.r.appspot.com)
+****** I would suggest doing CTRL + Shift + R to do a hard reload if the add recipes isnt working on your end. That seems to fix it on my end. 
 
 ## 🛠 Tech Stack
 
