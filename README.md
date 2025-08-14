@@ -123,7 +123,7 @@ A full-stack web application designed to help users store, organize, and plan th
 
 ## 👥 Team Member Contributions
 
-### Kavya Veeramalla (Solo Developer)
+### Kavya Veeramony (Solo Developer)
 
 #### Iteration 1 Contributions:
 - **Backend Development**: Designed and implemented Express.js API with full CRUD operations
