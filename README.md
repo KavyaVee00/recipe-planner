@@ -157,14 +157,27 @@ A full-stack web application designed to help users store, organize, and plan th
 ### Home Dashboard
 *Clean, intuitive dashboard with feature navigation*
 
+![Home Dashboard](frontend/pictures/homepage.png)
+
 ### Recipe Management
 *Comprehensive recipe CRUD with search and filtering capabilities*
+
+![Recipe Management](frontend/pictures/recipepage.png)
+
+### Add Recipe Form
+*Simple and intuitive recipe creation interface*
+
+![Add Recipe](frontend/pictures/addrecipepage.png)
 
 ### Meal Planning Interface
 *Drag-and-drop weekly meal planning calendar*
 
+![Meal Planning](frontend/pictures/mealplannerpage.png)
+
 ### Shopping List Generator
 *Automatically organized shopping lists from meal plans*
+
+![Shopping List](frontend/pictures/shoppinglistpage.png)
 
 ## 🔄 Project Completion Status
 
